@@ -1,5 +1,4 @@
-language: node_js
-script: true
-node_js:
- - "iojs"
- - "7"
+language: python
+python:
+ - "2.7"
+
